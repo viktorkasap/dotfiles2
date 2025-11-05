@@ -31,9 +31,7 @@ git clone https://github.com/zsh-users/zsh-autosuggestions.git $custom/zsh-autos
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $custom/zsh-syntax-highlighting
 git clone https://github.com/remcohaszing/zsh-node-bin.git $custom/node-bin
 git clone https://github.com/fdellwing/zsh-bat.git $custom/zsh-bat
-git clone https://github.com/lukechilds/zsh-nvmu $custom/zsh-nvm
-
-
+git clone https://github.com/lukechilds/zsh-nvm $custom/zsh-nvm
 
 # Ensure Node (LTS) is installed & active
 nvm install --lts
